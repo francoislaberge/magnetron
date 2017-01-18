@@ -1,5 +1,5 @@
 ### Magnetron
-
+An attempt to make near instantaneous hot reloading. **Work in progress**
 
 #### Usage
 
