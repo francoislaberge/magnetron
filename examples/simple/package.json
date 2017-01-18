@@ -1,0 +1,13 @@
+{
+  "name": "simple",
+  "version": "0.1.0",
+  "description": "Simple example of using magentron",
+  "main": "main.js",
+  "scripts": {
+	"start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.4.14"
+  },
+  "license": "MIT"
+}
