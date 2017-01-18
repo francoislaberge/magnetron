@@ -1,0 +1,31 @@
+{
+  "name": "magnetron",
+  "version": "0.1.0",
+  "description": "Faster hot reloading",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hot",
+    "live",
+    "reload",
+    "patch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoislaberge/magnetron"
+  },
+  "bugs": {
+    "url": "https://github.com/francoislaberge/magnetron/issues"
+  },
+  "author": "Francois Laberge <francoislaberge@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hot reload",
+    "reload",
+    "live",
+    "patch",
+    "redux"
+  ]
+}
