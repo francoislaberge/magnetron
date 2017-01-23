@@ -4,10 +4,14 @@
   "description": "Simple example of using magentron",
   "main": "main.js",
   "scripts": {
-	"start": "electron ."
+    "start": "electron ."
   },
   "dependencies": {
-    "electron": "^1.4.14"
+    "electron": "^1.4.14",
+    "hyperscript-helpers": "^3.0.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hyperscript": "^2.4.2"
   },
   "license": "MIT"
 }
