@@ -14,3 +14,7 @@ module.exports = () => {
 
 	ReactDOM.render(h(MyComponent), document.getElementById('container') );
 }
+
+// module.exports = () =>{
+// 	//console.log(`Hello World ${Math.random()}`);
+// }
